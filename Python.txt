@@ -1,0 +1,28 @@
+Who developed Python Programming Language?|Wick van Rossum|Rasmus Lerdorf| Guido van Rossum| Niene Stom|c
+
+
+Which type of Programming does Python support?| object-oriented programming| structured programming| functional programming| all of the mentioned|d
+
+
+Is Python case sensitive when dealing with identifiers?| no| yes| machine dependent| none of the mentioned|b
+
+
+Which of the following is the correct extension of the Python file?|.python| .pl| .py| .p|c
+
+
+Is Python code compiled or interpreted?| Python code is both compiled and interpreted| Python code is neither compiled nor interpreted| Python code is only compiled| Python code is only interpreted|a
+
+
+All keywords in Python are in _________| Capitalized| lower case|UPPER CASE| None of the mentioned|d
+
+
+What will be the value of the following Python expression?print(4 + 3 % 5)| 7| 2| 4| 1|a 
+
+
+Which of the following is used to define a block of code in Python language?| Indentation|Key|Brackets|All of the mentioned|a
+
+
+Which keyword is used for function in Python language?|Function|def|Fun| Define|b
+
+
+Which of the following character is used to give single-line comments in Python?|//| #| !| /*|b

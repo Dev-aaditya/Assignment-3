@@ -1,0 +1,19 @@
+ What is a data structure?| A programming language| A collection of algorithms| A way to store and organize data| A type of computer hardware|c
+
+ What are the disadvantages of arrays?| Index value of an array can be negative| Elements are sequentially accessed| Data structure like queue or stack cannot be implemented| There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size|d
+
+ Which data structure is used for implementing recursion?| Stack| Queu| List| Array | a
+
+ The data structure required to check whether an expression contains a balanced parenthesis is?| Queue| Stack| Tree|Array|b
+
+ Which of the following is not the application of stack?| Data Transfer between two asynchronous process| Compiler Syntax Analyzer| Tracking of local variables at run time| A parentheses balancing program|a
+
+ Which data structure is needed to convert infix notation to postfix notation?| Tree| Branch| Stack| Queue|c
+
+ What is the value of the postfix expression 6 3 2 4 + – *?| 74| -18| 22| 40|b
+
+ What data structure would you mostly likely see in non recursive implementation of a recursive algorithm?| Stack| Linked List| Tree| Queue|a
+
+ Which of the following statement(s) about stack data structure is/are NOT correct?| Top of the Stack always contain the new node|Stack is the FIFO data structure| Null link is present in the last node at the bottom of the stack| Linked List are used for implementing Stacks|b
+
+ The data structure required for Breadth First Traversal on a graph is?| Array| Stack| Tree| Queue|d

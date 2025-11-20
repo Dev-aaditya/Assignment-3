@@ -1,0 +1,26 @@
+ What is the full form of DBMS?| Data of Binary Management System| Database Management System|Database Management Service|Data Backup Management System|b
+
+
+ What is a database?| Organized collection of information that cannot be accessed, updated, and managed| Collection of data or information without organizing| Organized collection of data or information that can be accessed, updated, and managed|d) Organized collection of data that cannot be updated|c
+
+
+ What is DBMS?| DBMS is a collection of queries| DBMS is a high-level language| DBMS is a programming language| DBMS stores, modifies and retrieves data |d
+
+ Who created the first DBMS?|Edgar Frank Codd| Charles Bachman| Charles Babbage| Sharon B. Codd|b
+
+
+ Which type of data can be stored in the database?| Image oriented data| Text, files containing data| Data in the form of audio or video| All of the above|d
+
+
+ In which of the following formats data is stored in the database management system?| Image| Text| Table| Graph|c
+
+
+ Which of the following is not a type of database?| Hierarchical| Network| Distributed| Decentralized|d
+
+
+ Which of the following is not an example of DBMS?| MySQL| Microsoft Acess| IBM DB2| Google|d
+
+ Which of the following is not a feature of DBMS?| Minimum Duplication and Redundancy of Data| High Level of Security| Single-user Access only| Support ACID Property|c
+
+
+ Which of the following is a feature of the database?| No-backup for the data stored| User interface provided| Lack of Authentication| Store data in multiple locations|b
